@@ -1,0 +1,30 @@
+{
+  "name": "todo_demo",
+  "version": "0.0.0",
+  "authors": [
+    "Shawn Morgan <shawn@shawnmorgan.com>"
+  ],
+  "description": "my todo",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "shawn",
+    "demo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.2.1",
+    "jquery": "1.9.1"
+  },
+  "devDependencies": {
+    "karma": "~0.4.6"
+  }
+}
